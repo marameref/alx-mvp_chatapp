@@ -3,7 +3,7 @@ Tagline:
 - "Stay connected and in control with our fully customizable chat app for freelancers!"
 
 ## Team Members:
-- Amarachi Omereife (Team Lead): UX design, Product Documentation & Backend)
+- Amarachi Omereife (Team Lead): UX design, Product Documentation, Frontend & Backend)
 - Anwulika Mordi (Team Member): Product Documentation and Backend
 
 Technology:
